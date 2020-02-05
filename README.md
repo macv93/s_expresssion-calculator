@@ -10,6 +10,9 @@
 
     $ ./calc.py "(add 12 12)"
     24
+    
+     $ ./calc.py "(add 12 multiply(6 3))"
+    30
 
 ## Running Test File
 
